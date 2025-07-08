@@ -53,7 +53,7 @@ See [CONTRIBUTING.md][contrib]
 
 Sources to look in:
 
-* https://asciiart.website/ - again, this person only collects them - no mention of license, permissions, etc.
+* https://asciiart.website/ - again, this person only collects them -  mention of license, permissions, etc.
 
 Permissions
 
